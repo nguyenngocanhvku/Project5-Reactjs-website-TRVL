@@ -1,1 +1,1 @@
-# Project5-Reactjs-website-TRVL
+# Project6-App-SmartphoneStore
